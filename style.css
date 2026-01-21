@@ -1,0 +1,50 @@
+body{
+margin: 600 px;
+padding: 600ox;
+font-family: Arial,  sans-serif;
+background-color: #111;
+color: rgb(224, 168, 64);
+text-align: center;
+}
+.screen {
+    padding: 40px; 
+}
+h1 {
+    color: rgb(165, 164, 163);
+    margin: bottom 10px; ;
+}
+
+p {
+    font-size: 16px;
+margin-bottom: 20px;
+
+}
+
+.video{
+    border-radius: 12px;
+    box-shadow:0 0 20px  #dfaf2c;
+    margin-bottom: 20px;
+    border: 4px solid #b4911e;
+}
+.play {
+    background: #b4911e;
+    color: #000;
+}
+.watch {
+    background: #b4911e;
+    color: #000;
+}
+.download {
+    background: #b4911e;
+    color: #000;
+}
+.footer h3 {
+margin: 5px;
+}
+.box shadow {
+
+}
+
+
+
+
